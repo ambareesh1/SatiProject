@@ -1,0 +1,15 @@
+.nav-icon-custom {
+  color: var(--global--color-primary);
+  padding-bottom: 4px;
+}
+
+.nav-span-icon-custom {
+  padding-left: 5px;
+  text-align: center;
+}
+.nav-item a:hover {
+  color: var(--global--color-primary) !important;
+}
+.logo-custom {
+  width: 200%;
+}
